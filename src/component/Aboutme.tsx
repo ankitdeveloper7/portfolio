@@ -2,8 +2,8 @@ export default function Aboutme() {
   return (
     <div className="py-8">
       <p className="text-xl font-medium leading-[24px]">About me</p>
-      <div className="text-base font-normal">
-        <p className=" grid grid-y-8">
+      <div className="text-base font-normal textColor">
+        <p className="py-5">
           Hello, I'm Ankti Kumar , a web designer with 15 years of expertise in
           crafting visually stunnin and user-friendly digital experiences.
         </p>
