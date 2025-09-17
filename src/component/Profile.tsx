@@ -48,7 +48,7 @@ export default function Profile() {
           </div>
         </div>
         {/* <hr /> */}
-        <div className="my-2 textColor border-t-1 border-[#ababab]">
+        <div className="my-4 textColor border-t-1  border-[#ababab]">
           <Link href="" className="inline-block hover:text-white">
             itsankitkumar07@gmail.com
           </Link>

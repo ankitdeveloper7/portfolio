@@ -11,7 +11,7 @@ export default function Contact() {
           <div className="border-l-2 border-[#1a1a1a] pl-4 mb-8">
             <div className="py-2">
               Email:
-              <div className="py-1">
+              <div className="py-2">
                 <Link href="" className="textColor hover:text-white">
                   itsankitkumar07@gmail.com
                 </Link>
@@ -19,7 +19,7 @@ export default function Contact() {
             </div>
             <div className="py-2">
               Phone:
-              <div className="py-1">
+              <div className="py-2">
                 <Link href="" className="textColor hover:text-white">
                   +91 7759816393
                 </Link>
@@ -27,19 +27,19 @@ export default function Contact() {
             </div>
             <div className="py-2">
               Socials:
-              <div className="py-1">
+              <div className="py-2">
                 <Link href="" className="textColor hover:text-white">
                   <Twitter size={16} className="inline-block mr-2" />
                   Twitter
                 </Link>
               </div>
-              <div className="py-1">
+              <div className="py-2">
                 <Link href="" className="textColor hover:text-white">
                   <Instagram size={16} className="inline-block mr-2" />
                   Instagram
                 </Link>
               </div>
-              <div className="py-1">
+              <div className="py-2">
                 <Link href="" className="textColor hover:text-white">
                   <Linkedin size={16} className="inline-block mr-2" />
                   Linkedin

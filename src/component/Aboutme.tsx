@@ -2,16 +2,18 @@ export default function Aboutme() {
   return (
     <div className="py-8">
       <p className="text-xl font-medium leading-[24px]">About me</p>
-      <div className="text-base font-normal textColor">
+      <div className="text-base font-normal textColor text-justify">
         <p className="py-5">
-          Hello, I'm Ankti Kumar , a web designer with 15 years of expertise in
-          crafting visually stunnin and user-friendly digital experiences.
+          I’m a passionate software engineer and MERN stack developer who enjoys
+          building scalable, user-friendly, and efficient web applications. I
+          have hands-on experience with modern tools and frameworks like React,
+          Node.js, Express, MongoDB, Next.js, TypeScript, and PostgreSQL.
         </p>
         <p>
-          My journey in web design began with a curiosity for how websites work
-          and a desire to create something meaningful on the digital canvas.
-          Over the years, I've honed my skills in user interface design,
-          front-end development, and user experience optimization.
+          Alongside development, I’m constantly sharpening my problem-solving
+          skills through Data Structures and Algorithms in Java. I’m also
+          curious about startups, product building, and exploring new
+          technologies that can create real-world impact.
         </p>
       </div>
     </div>
