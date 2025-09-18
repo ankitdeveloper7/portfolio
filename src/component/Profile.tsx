@@ -53,11 +53,19 @@ export default function Profile() {
             itsankitkumar07@gmail.com
           </Link>
           <div className="inline-block absolute right-2">
-            <Link href="" className="inline-block mx-5 hover:text-white">
+            <Link
+              href="https://x.com/itsankitkumar07"
+              target="_blank"
+              className="inline-block mx-5 hover:text-white"
+            >
               {" "}
               <Twitter size={16} className="inline-block" /> twitter
             </Link>
-            <Link href="" className="inline-block hover:text-white">
+            <Link
+              href="https://www.linkedin.com/in/ankitkumar"
+              target="_blank"
+              className="inline-block hover:text-white"
+            >
               <Linkedin size={16} className="inline-block" /> Linkedln
             </Link>
           </div>
